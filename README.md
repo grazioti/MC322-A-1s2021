@@ -1,6 +1,12 @@
 # Objetivo do repositório MC322-A-1s2021
 Este repositório é destinado ao envio de projetos desenvolvidos ao longo da disciplina MC322, Programação Orientada a Objetos, na Unicamp, durante o primeiro semestre de 2021.
 
+# Aluno
+- César Devens Grazioti
+
+# Curso
+- Engenharia de Computação
+
 # Minha apresentação
 Olá, bem-vindo ao meu repositório. Meu nome é César Devens Grazioti, tenho 18 anos, resido em Fundão, uma pequena cidade do Espírito Santo, cujo número de habitantes é próximo de 17.000. Tenho amor pela matemática desde que aprendi a contar,  além de ser fã de video games e jogos eletrônicos desde criança. Creio que estes motivaram minha escolha de profissão durante o vestibular, embora eu seja uma pessoa muito indecisa.
 
