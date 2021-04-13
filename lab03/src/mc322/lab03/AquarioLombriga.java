@@ -13,6 +13,11 @@ public class AquarioLombriga {
         this.L = L;
         this.pos = pos;
     
+        //caso da lombriga tiver tamanhos menores ou iguais a 1:
+        if (L <= 1) {
+        	this.L = 2;
+        }
+        
         //caso da lombriga ser maior que o aquario: aumentar o aquário
         if (L > A) {
             this.A = L;

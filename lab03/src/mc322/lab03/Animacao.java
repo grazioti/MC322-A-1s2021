@@ -15,7 +15,11 @@ public class Animacao {
         this.acoes = str_acoes.toCharArray();
         
         umAquario = new AquarioLombriga(A,L,pos);
-        umAquario.apresenta();
+        apresenta();
+    }
+    
+    void apresenta() {
+    	umAquario.apresenta();
     }
     
     void passo() {
@@ -33,7 +37,7 @@ public class Animacao {
                     umAquario.virar();
                     break;
             }
-            umAquario.apresenta();
+            apresenta();
         }
     }
 }
